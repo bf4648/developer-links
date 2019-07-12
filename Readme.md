@@ -16,3 +16,10 @@
 
 * [programmer-competency-matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
+## Logic
+
+[logic-lab](http://www.neuroproductions.be/logic-lab/)
+
+## Python
+
+[algorithms-python](https://runestone.academy/runestone/default/user/login)
