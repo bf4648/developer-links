@@ -23,3 +23,11 @@
 ## Python
 
 [algorithms-python](https://runestone.academy/runestone/default/user/login)
+
+## Installers
+
+[ninite](https://ninite.com)
+
+[mac-apps](http://www.getmacapps.com)
+
+[portable-apps](https://portableapps.com)
